@@ -4,10 +4,20 @@
 
 ### Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+python
+import numpy as np
+import matplotlib.pyplot as plt
+# Set maximum iteration
+maxIter = 500
 
 
-### 
+
+### python
+python
+import numpy as np
+import matplotlib.pyplot as plt
+# Set maximum iteration
+maxIter = 500
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
